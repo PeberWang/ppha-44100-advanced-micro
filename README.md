@@ -15,6 +15,7 @@ problem-set solutions, and any related code.
 
 | Path | What goes here |
 |---|---|
+| `notes/` | Original lecture notes (one file per chapter), in your own words |
 | `proofs/` | Theorem / proposition proofs, cleaned up and cross-referenced |
 | `problem-sets/` | Solutions, organized as `ps01/`, `ps02/`, … |
 | `data/` | Datasets you are allowed to share, plus data dictionaries |
